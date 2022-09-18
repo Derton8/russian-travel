@@ -6,3 +6,7 @@
   line-height: 1.63;
   grid-area: text;
 }
+
+.place__paragraph:last-of-type {
+  margin: 0;
+}

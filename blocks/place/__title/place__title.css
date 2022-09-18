@@ -7,3 +7,21 @@
   max-width: 460px;
   grid-area: title;
 }
+
+@media screen and (max-width: 1279px) {
+  .place__title {
+    max-width: 440px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .place__title {
+    
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__title {
+    
+  }
+}

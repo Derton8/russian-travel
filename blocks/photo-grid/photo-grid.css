@@ -7,3 +7,23 @@
   box-sizing: border-box;
   gap: 16px;
 }
+
+@media screen and (max-width: 1279px) {
+  .photo-grid {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 14px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .photo-grid {
+    
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .photo-grid {
+    
+  }
+}
