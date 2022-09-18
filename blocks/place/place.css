@@ -10,7 +10,7 @@
   box-sizing: border-box;
   grid-template-areas:
   "title website"
-  "image text"
+  "image text";
 }
 
 .place:last-of-type {
@@ -40,6 +40,6 @@
     "title"
     "website"
     "image"
-    "text"
+    "text";
   }
 }
