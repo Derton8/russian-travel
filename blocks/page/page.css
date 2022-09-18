@@ -12,20 +12,21 @@
 
 @media screen and (max-width: 1279px) {
   .page {
-    max-width:  1024px;;
+    min-width:  1024px;
+    padding: 0;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .page {
-    max-width: 768px;
-    padding: 28px 24px 24px;
+    min-width: 768px;
+    padding: 0;
   }
 }
 
 @media screen and (max-width: 767px) {
   .page {
-    max-width: 320px;
-    padding: 16px 16px 24px;
+    min-width: 320px;
+    padding: 0;
   }
 }

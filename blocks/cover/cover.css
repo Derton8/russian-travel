@@ -1,5 +1,6 @@
 .cover {
   position: relative;
+  max-width: 100%;
   min-height: 740px;
   display: flex;
   justify-content: center;
@@ -30,21 +31,21 @@
 
 @media screen and (max-width: 1279px) {
   .cover {
+    min-width: 100%;
     min-height: 640px;
-    margin: 0 -48px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .cover {
+    min-width: 100%;
     min-height: 480px;
-    margin: 0 -24px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .cover {
+    min-width: 100%;
     min-height: 200px;
-    margin: 0 -16px;
   }
 }

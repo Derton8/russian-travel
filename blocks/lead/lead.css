@@ -5,13 +5,13 @@
 
 @media screen and (max-width: 1279px) {
   .lead {
-    padding: 48px 0 92px;
+    padding: 48px 48px 92px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .lead {
-    padding-bottom: 88px;
+    padding: 48px 0 88px;
   }
 }
 

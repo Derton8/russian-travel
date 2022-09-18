@@ -1,12 +1,11 @@
 .intro {
   padding-left: 100px;
   max-width: 790px;
-  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1279px) {
   .intro {
-    padding-left: 0;
+    padding-left: 48px;
     max-width: 690px;
   }
 }
@@ -14,11 +13,13 @@
 @media screen and (max-width: 1023px) {
   .intro {
     max-width: 720px;
+    padding-left: 24px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .intro {
-    max-width: 288px;
+    padding-left: 16px;
+    max-width: calc(100% - 16px * 2);
   }
 }
