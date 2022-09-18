@@ -4,3 +4,11 @@
   padding: 0;
   display: flex;
 }
+
+@media screen and (max-width: 767px) {
+  .footer__links {
+    flex-direction: column;
+    min-height: 248px;
+    justify-content: space-between;
+  }
+}

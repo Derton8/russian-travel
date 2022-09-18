@@ -16,14 +16,10 @@
   }
 }
 
-@media screen and (max-width: 1023px) {
-  .lead__subtitle {
-    
-  }
-}
-
 @media screen and (max-width: 767px) {
   .lead__subtitle {
-    
+    font-size: 16px;
+    line-height: 1.25;
+     margin: 16px auto 40px;
   }
 }

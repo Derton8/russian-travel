@@ -32,6 +32,14 @@
 
 @media screen and (max-width: 767px) {
   .place {
-    
+    gap: 32px;
+    padding-bottom: 50px;
+    grid-template-columns: repeat(1, auto);
+    grid-template-rows: repeat(4, auto);
+    grid-template-areas:
+    "title"
+    "website"
+    "image"
+    "text"
   }
 }
