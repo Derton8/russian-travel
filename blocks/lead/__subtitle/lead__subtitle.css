@@ -20,6 +20,7 @@
   .lead__subtitle {
     font-size: 16px;
     line-height: 1.25;
-     margin: 16px auto 40px;
+    margin: 16px auto 40px;
+    padding: 0 16px;
   }
 }
