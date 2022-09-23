@@ -7,8 +7,8 @@
   line-height: 1.22;
   max-width: 360px;
   z-index: 1;
-  text-decoration: none;
   color: #FFFFFF;
+  z-index: 2;
 }
 
 @media screen and (max-width: 767px) {
