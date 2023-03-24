@@ -1,4 +1,4 @@
-# Проект: Путешествие по России
+<h1 align="center">Проект: Путешествие по России</h1>
 
 <div align="center">
   <img width="400" height="270" src="https://user-images.githubusercontent.com/108746040/227198573-63f33536-1550-4147-a9f8-6bc9e59af19f.png" />
